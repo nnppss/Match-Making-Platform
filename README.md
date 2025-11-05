@@ -1,4 +1,4 @@
-# DATING_PLATFORM_C/C++_SEM2PROJ
+# DATING PLATFORM C/C++ SEM2 PROJECT
 # Basic C++ project that reflects the learning in Semester 2
 
 # FEATURES 
